@@ -1,0 +1,6 @@
+@tire_inventory_csharp_HostAddress = http://localhost:5185
+
+GET {{tire_inventory_csharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
